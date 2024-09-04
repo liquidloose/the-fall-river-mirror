@@ -1,0 +1,28 @@
+/* This is styling for the nav menu as well as all of the above the 
+fold CSS that needed to be hand coded */
+
+ul.has-text-color.has-base-2-color.has-medium-font-size.wp-block-page-list {
+    height: 68px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 0px;
+}
+
+li.wp-block-pages-list__item.wp-block-navigation-item.open-on-hover-click {
+    height: 100%;
+    border-right: white;
+    border-style: solid;
+    border-top: none;
+    border-bottom: none;
+    border-left: 0px;
+    padding: 0 3%;
+}
+
+.rivedge-navigation {
+    height: 68px;
+    align-items: center;
+    justify-content: flex-start;
+    margin-left: 5%;
+    gap: 27px;
+}

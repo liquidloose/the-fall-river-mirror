@@ -12,7 +12,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 The Fall River Mirror is an AI-powered news website. It delivers news on all of the Fall River City Council's meetings.
 
-
 == Changelog ==
 
 = 1.0.0 =
