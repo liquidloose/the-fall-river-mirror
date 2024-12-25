@@ -1,15 +1,19 @@
 /*
-Theme Name: The Fall River Mirror
-Theme URI: http://www.fallrivermirror.com
-Author: The Fall River Mirror
+Theme Name: tfg-christmas-theme
+Theme URI: https://findholidaylights.com
+Author: The Franchise Group
 Author URI: 
-Description: The Fall River Mirror is an AI-powered news website. It delivers news on all of the Fall River City Council's meetings.
-Requires at least: 6.0
-Tested up to: 6.6
+Description: A Christmas theme designed for the Holiday Lights plugin.
+Requires at least: 6.7
+Tested up to: 6.7
 Requires PHP: 5.7
-Version: 0.0.1
+Version: 
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: the-fall-river-mirror
+Text Domain: tfg-christmas-theme
 Tags: 
 */
+
+body.block-editor-iframe__body.editor-styles-wrapper.admin-color-fresh.wp-embed-responsive {
+    background-color: var(--wp--preset--color--base);
+}

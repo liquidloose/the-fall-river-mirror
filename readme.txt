@@ -1,8 +1,8 @@
-== The Fall River Mirror ==
+== tfg-christmas-theme ==
 
-Contributors: The Fall River Mirror
-Requires at least: 6.0
-Tested up to: 6.6
+Contributors: The Franchise Group
+Requires at least: 6.7
+Tested up to: 6.7
 Requires PHP: 5.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -10,7 +10,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-The Fall River Mirror is an AI-powered news website. It delivers news on all of the Fall River City Council's meetings.
+A Christmas theme designed for the Holiday Lights plugin.
+
 
 == Changelog ==
 
@@ -20,8 +21,8 @@ The Fall River Mirror is an AI-powered news website. It delivers news on all of 
 
 == Copyright ==
 
-The Fall River Mirror WordPress Theme, (C) 2024 The Fall River Mirror
-The Fall River Mirror is distributed under the terms of the GNU GPL.
+tfg-christmas-theme WordPress Theme, (C) 2024 The Franchise Group
+tfg-christmas-theme is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
